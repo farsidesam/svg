@@ -13,11 +13,11 @@
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
-   id="svg691"
+   id="svg3796"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
    sodipodi:docname="tag1.svg">
   <defs
-     id="defs685" />
+     id="defs3790" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-666.72108"
+     inkscape:zoom="0.35"
+     inkscape:cx="1154.2857"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -37,14 +37,14 @@
      inkscape:window-y="-13"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata688">
+     id="metadata3793">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,45 +54,15 @@
      id="layer1">
     <flowRoot
        xml:space="preserve"
-       id="flowRoot3758"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3760"><rect
-           id="rect3762"
-           width="58"
-           height="59"
-           x="362"
-           y="145.12682" /></flowRegion><flowPara
-         id="flowPara3764"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3766"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3768"><rect
-           id="rect3770"
-           width="62"
-           height="59"
-           x="300"
-           y="145.12682" /></flowRegion><flowPara
-         id="flowPara3772"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3774"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion3776"><rect
-           id="rect3778"
-           width="58"
-           height="59"
-           x="362"
-           y="145.12682" /></flowRegion><flowPara
-         id="flowPara3780"></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="14.432554"
-       y="19.574232"
-       id="text3788"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;CFAP.020-PIC108.PV&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-         sodipodi:role="line"
-         id="tspan3786"
-         x="14.432554"
-         y="19.574232"
-         style="stroke-width:0.26458332">%f</tspan></text>
-  </g>
+       id="flowRoot3798"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;CFAP.020-PIC108.PV&quot;,&quot;type&quot;:&quot;Good&quot;}"><flowRegion
+         id="flowRegion3800"><rect
+           id="rect3802"
+           width="182.85715"
+           height="91.428574"
+           x="74.285713"
+           y="88.23394" /></flowRegion><flowPara
+         id="flowPara3804">&quot;%f&quot;</flowPara></flowRoot>  </g>
 </svg>
